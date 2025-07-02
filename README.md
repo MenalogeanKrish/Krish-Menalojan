@@ -10,17 +10,17 @@
 ### 🧠 About Me
 
 - 💻 I'm pursuing a BSc in **Cybersecurity** and hold a **Diploma in IT**
-- 🧰 I create **tech content on Instagram @KMQuantum**, blending AI, hacking, and ancient tech
-- 🌐 I’ve built websites using **Dreamweaver**, designed assets with **Photoshop**
-- 🖥️ Passionate about **Networking**, **Server Management**, and **Modern AI Tools**
-- 🔧 Currently learning **Machine Learning & AI** from scratch
+- 📲 I run a tech content page [@KMQuantum](https://www.instagram.com/kmquantum), sharing AI tools, tips, and tech hacks
+- 🌐 Built websites using **Dreamweaver**, designed content with **Photoshop**
+- 🖥️ Experienced in **Networking, Server Management, and Infrastructure Support**
+- 🔧 Currently learning **AI & Machine Learning** from the ground up
 
 ---
 
 ### 🛠 Tech Stack
 
 ```bash
-Languages: C, C++, Python, HTML, Java  
-Cloud & Infra: AWS, Azure, Windows Server, Cisco Networking  
-Tools: Git, Dreamweaver, Photoshop, Canva, Excel  
-Other: Active Directory, DNS, DHCP, Adobe Creative Suite, VS Code
+Languages:        C, C++, Python, HTML, Java  
+Cloud & Infra:    AWS, Azure, Windows Server, Cisco Networking  
+Tools & Design:   Git, Dreamweaver, Photoshop, Canva, Excel  
+IT & Networking:  Active Directory, DNS, DHCP, Server Setup
